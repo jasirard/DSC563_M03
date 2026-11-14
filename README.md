@@ -31,7 +31,7 @@ File Directory:
 - sirard_jeffrey_CDC_data_Tableau V1.twb: First draft Tableau workbook created for CDC dataset analysis.
 - sirard_jeffrey_CDC_data_Tableau V2.twb: Second draft Tableau workbook created for CDC dataset analysis.
 - sirard_jeffrey_CDC_data_Tableau V3.twb: Third draft Tableau workbook created for CDC dataset analysis.
-- sirard_jeffrey_CDC_data_Tableau_FINAL.twb: Penultimate Tableau workbook created for CDC dataset analysis.
+- sirard_jeffrey_CDC_data_Tableau_FINAL.twbx: Penultimate Tableau workbook created for CDC dataset analysis.
 - sirard_jeffrey_CDC_data_Tableau_FINAL_edit.twbx: Final Tableau packaged workbook created for CDC dataset analysis.
 - DSC 563 Module 4 Presentation.pptx: Initial draft of PowerPoint presentation for DSC 563 Module 4 VoiceThread.
 - DSC 563 Module 4 Presentation V2.pptx: Final draft of PowerPoint presentation used in DSC 563 Module 4 VoiceThread.
